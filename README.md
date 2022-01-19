@@ -7,6 +7,7 @@
 ## General Info
 This browser based web application to ...
 * This is Ryan
+* This is Geetika
 ## Technologies
 Technologies used for this project:
 * HTML, CSS
