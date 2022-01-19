@@ -8,6 +8,7 @@
 This browser based web application to ...
 * This is Ryan
 * This is Geetika
+* Hi this is Amarra!
 ## Technologies
 Technologies used for this project:
 * HTML, CSS
